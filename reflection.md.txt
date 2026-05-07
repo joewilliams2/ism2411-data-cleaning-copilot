@@ -1,0 +1,17 @@
+# Reflection
+
+## What Copilot Generated
+
+GitHub Copilot helped generate parts of the `clean_column_names` and `remove_invalid_rows` functions in my Python script. I used comments and partial function names to guide Copilot’s suggestions. After typing comments that explained the purpose of each function, Copilot suggested code that I could accept and build from.
+
+## What I Modified
+
+I did not use Copilot’s suggestions exactly as they were generated. I changed some formatting, adjusted parts of the logic, and added additional comments to make the code easier to understand. For example, I added extra checks to make sure certain columns existed before modifying them, which helped prevent potential errors if the dataset changed.
+
+## What I Learned
+
+This project helped me better understand how Python and pandas can be used to clean messy datasets efficiently. I learned how to standardize column names, handle missing values, remove invalid data, and export cleaned data into a new CSV file. I also learned that GitHub Copilot can save time by generating starter code, but the suggestions still need to be reviewed carefully because they are not always perfect or customized to the exact project requirements.
+
+## Overall Experience
+
+Before this assignment, I had very little experience using GitHub, Python, or GitHub Copilot. Working through the project helped me become more comfortable with organizing files, running Python scripts, and uploading projects to GitHub. I also gained a better understanding of how AI tools can support coding workflows while still requiring human review and decision-making.
