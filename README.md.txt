@@ -10,7 +10,7 @@ The cleaning process includes:
 - Standardizing column names
 - Removing extra whitespace
 - Handling missing values
-- Removing invalid rows with negative values
+
 
 ## Project Structure
 
